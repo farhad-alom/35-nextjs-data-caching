@@ -1,0 +1,102 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Headphones",
+            "price": 59.99,
+            "category": "Electronics",
+            "stock": 25,
+            "description": "High-quality wireless headphones with noise cancellation and up to 20 hours of battery life."
+        },
+        {
+            "id": 2,
+            "name": "Mechanical Keyboard",
+            "price": 89.99,
+            "category": "Electronics",
+            "stock": 15,
+            "description": "RGB mechanical keyboard with tactile switches, perfect for gaming and typing."
+        },
+        {
+            "id": 3,
+            "name": "Running Shoes",
+            "price": 74.99,
+            "category": "Footwear",
+            "stock": 30,
+            "description": "Lightweight running shoes designed for comfort, support, and everyday training."
+        },
+        {
+            "id": 4,
+            "name": "Smart Watch",
+            "price": 129.99,
+            "category": "Electronics",
+            "stock": 12,
+            "description": "Feature-rich smartwatch with fitness tracking, heart rate monitoring, and notifications."
+        },
+        {
+            "id": 5,
+            "name": "Travel Backpack",
+            "price": 45.99,
+            "category": "Bags",
+            "stock": 20,
+            "description": "Durable travel backpack with multiple compartments and a laptop sleeve."
+        },
+        {
+            "id": 6,
+            "name": "Cotton T-Shirt",
+            "price": 19.99,
+            "category": "Clothing",
+            "stock": 50,
+            "description": "Soft and comfortable cotton T-shirt suitable for casual everyday wear."
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "name": "Atomic Ovvas",
+            "price": 16.99,
+            "category": "Self Development",
+            "stock": 35,
+            "description": "A practical book about building good habits, breaking bad ones, and making small improvements every day."
+        },
+        {
+            "id": 2,
+            "name": "The Alchemist",
+            "price": 14.99,
+            "category": "Fiction",
+            "stock": 28,
+            "description": "A philosophical novel about following your dreams, discovering your purpose, and listening to your heart."
+        },
+        {
+            "id": 3,
+            "name": "Rich Dad Poor Dad 555",
+            "price": 18.49,
+            "category": "Finance",
+            "stock": 22,
+            "description": "A personal finance book that explores different perspectives on money, investing, and financial independence."
+        },
+        {
+            "id": 4,
+            "name": "The Psychology of Money",
+            "price": 17.99,
+            "category": "Finance",
+            "stock": 31,
+            "description": "A book exploring how emotions, behavior, and personal experiences influence financial decisions."
+        },
+        {
+            "id": 5,
+            "name": "Deep Work",
+            "price": 15.99,
+            "category": "Productivity",
+            "stock": 19,
+            "description": "A guide to developing focused work habits and producing valuable results in a distracted world."
+        },
+        {
+            "id": 6,
+            "name": "Clean Code",
+            "price": 29.99,
+            "category": "Programming",
+            "stock": 14,
+            "description": "A programming book that explains principles and practices for writing clean, readable, and maintainable code."
+        }
+    ]
+}
